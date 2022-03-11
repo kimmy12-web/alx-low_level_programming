@@ -10,14 +10,14 @@
 
 int main(void)
 {
-	char alph[25] = "abcdfghijklmnoprstuvwxyz";
-	int i;
 
-	while (i < 25)
+	int i = 97;
+
+	while (i < 123)
 	{
-		if (i != 'e' && i != 'q')
+		if (i != 101 && i != 113)
 		{
-			putchar(alph[i]);
+			putchar(i);
 		}
 		i++;
 	}
