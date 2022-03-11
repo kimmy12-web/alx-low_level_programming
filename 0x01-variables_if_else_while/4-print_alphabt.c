@@ -10,10 +10,10 @@
 
 int main(void)
 {
-	char alph[26] = "abcdefghijklmnopqrstuvwxyz";
+	char alph[24] = "abcdfghijklmnoprstuvwxyz";
 	int i;
 
-	while (i < 26)
+	while (i < 24)
 	{
 		if (i != 'e' && i != 'q')
 		{
