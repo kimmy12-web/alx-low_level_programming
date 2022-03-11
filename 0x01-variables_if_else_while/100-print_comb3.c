@@ -2,8 +2,9 @@
 /**
  *main - main function
  *
- *printa all possible combinations of two digits
+ *prints all possible combinations of two digits
  *
+ *Return: returns zero
 */
 
 int main(void)
