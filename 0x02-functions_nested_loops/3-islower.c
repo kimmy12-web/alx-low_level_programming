@@ -4,6 +4,8 @@
 /**
  *_islower - checks for lowercase character
  *
+ *@c : The character in ASCII code
+ *
  *Returns: 1 if c is lowercase or 0 otherwise
 */
 
