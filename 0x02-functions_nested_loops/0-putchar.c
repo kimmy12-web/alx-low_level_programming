@@ -2,11 +2,9 @@
 #include "main.h"
 
 /**
- *main - main function
+ *main - Prints _putchar
  *
- *Prints main function
- *
- *Return : Returns 0 when successful
+ *Return: Returns 0 when successful
 */
 
 int main(void)
