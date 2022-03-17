@@ -1,9 +1,7 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  *print_numbers - prints numbers
- *
  *Return: no return
 */
 
